@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "istream": "cpp",
+        "cmath": "cpp",
+        "vector": "cpp",
+        "cstdlib": "cpp",
+        "*.tcc": "cpp",
+        "iosfwd": "cpp",
+        "ostream": "cpp",
+        "stdexcept": "cpp",
+        "sstream": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
